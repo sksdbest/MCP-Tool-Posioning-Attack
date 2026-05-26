@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 shubham kumar sahu
+Copyright (c) 2026 Security Research & Education
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,47 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ADDITIONAL TERMS FOR EDUCATIONAL USE:
+
+This software is provided for educational and authorized security testing 
+purposes only. Users of this software agree to the following:
+
+1. AUTHORIZED USE ONLY
+   - Use only on systems you own or have explicit written permission to test
+   - Unauthorized access to computer systems is illegal
+
+2. RESPONSIBLE DISCLOSURE
+   - If you discover vulnerabilities, report them responsibly
+   - Allow 90 days for remediation before public disclosure
+   - Contact security teams directly
+
+3. NO WARRANTY
+   - This software is provided as-is for learning purposes
+   - The authors assume no liability for misuse
+
+4. LEGAL COMPLIANCE
+   - Users are responsible for complying with all applicable laws
+   - Unauthorized computer access violates:
+     * Computer Fraud and Abuse Act (CFAA) - USA
+     * Computer Misuse Act - UK
+     * Similar laws in other jurisdictions
+
+5. ETHICAL USE
+   This software demonstrates security vulnerabilities for educational purposes.
+   Users must use this knowledge responsibly and ethically to:
+   - Improve security
+   - Protect systems
+   - Enhance understanding
+   
+   NOT to:
+   - Steal data
+   - Gain unauthorized access
+   - Harm systems or users
+   - Violate privacy
+
+---
+
+For questions about proper use, refer to the README.md and DISCLAIMER section.
